@@ -1,4 +1,5 @@
 Fitness – Lift Improve Power
+
 Die Idee
 
 Eine App für die ganze Familie.
@@ -10,10 +11,10 @@ Kind sieht seinen Vereinssport und seine Ernährung.
 Jeder bekommt seinen eigenen Plan komplett.
 
 Unsere Werte
-EINFACH → Öffnen, Person wählen, fertig
-PERSÖNLICH → Jeder hat seine eigenen Daten
-MOTIVIEREND → Man sieht seinen Fortschritt
-SCHNELL → Keine langen Menüs
+EINFACH  Öffnen, Person wählen, fertig
+PERSÖNLICH :  Jeder hat seine eigenen Daten
+MOTIVIEREND :  Man sieht seinen Fortschritt
+SCHNELL : Keine langen Menüs
 
 Was die App kann
 Familienprofile anlegen
